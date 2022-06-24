@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: -45px;
+    margin-left: 8%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    
+}
+h2 {
+    color: rgb(228, 193, 37);
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: -80px;
+    margin-left: 725px;
+}
+
+.cintillo {
+    position: fixed;
+    z-index: 1;
+    margin-top: -20px;
+}
+
+.img-mini {
+    margin-top: 10px;
+    width: 100px;
+    height: 50px;
+}
+
+.img-mini2 {
+    margin-top: -100px;
+    margin-left: 1390px;
+    width: 100px;
+    height: 60px;
+}
+
+.img-portada {
+    width: 100vw;
+    height: 400px;
+    margin-top: 20px;
+    display: flex;
+    z-index: 3;
+}
+
+.cloths {
+    margin-left: 800px;
+    margin-top: -120px;
+}
+
+.rectangle {
+    box-sizing: content-box;
+    width: 100vw;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    margin-bottom: -80px;
+    }
